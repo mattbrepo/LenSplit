@@ -1,7 +1,7 @@
 # LenSplit
 A simple command-line tool to split a file in smaller chunks. 
 
-**Language: C**
+**Language: C/C++**
 
 **Start: 2006**
 
